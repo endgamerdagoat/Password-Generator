@@ -6,10 +6,12 @@ from the terminal as a CLI.
 
 First, clone this repo with `git clone https://github.com/endgamerdagoat/Password-Generator.git`
 
+Also install pyperclip, with `pip install pyperclip` or `pip3 install pyperclip`
+
+---
+
 ### Interactive Mode
 Run the file in a code editor
 
 ### CLI Mode
-Run this command in the terminal: `python password_gen.py --help`
-
-Or this if having problems: `**python3 password_gen.py --help**`
+Run this command in the terminal: `python password_gen.py --help` or `python3 password_gen.py --help`
